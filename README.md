@@ -21,3 +21,5 @@ Labels. The possible labels are:
 7. Sneaker
 8. Bag
 9. Ankle boot
+
+The training dataset don t appear in the repository because it s too large but you can get it on internet like https://www.kaggle.com/datasets/zalando-research/fashionmnist 
