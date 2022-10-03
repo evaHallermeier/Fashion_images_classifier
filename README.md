@@ -4,7 +4,10 @@
 - model developped in Python with Pytorch library
 ![image](https://user-images.githubusercontent.com/70845526/193638952-59ca8ef4-d7d6-4e89-98d3-8c8daeaeebff.png)
 
-- about parameters for running the code:
+-The run command to your program are:
+$ python ex4.py <train_x_path> <train_y_path> <test_x_path> <output_log_name>
+For example:
+$ python ex4.py train_x train_y test_x test_y
 
 
 Labels. The possible labels are:
